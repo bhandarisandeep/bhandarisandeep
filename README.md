@@ -1,6 +1,4 @@
-### Hi there, thanks for stopping by again on my Git, You will not find so many repos here, 
-###just few of my personal and some Security affair.
-###Rest I leave upto to take, Seriously few repos are forked not everone is a FAKE !!! EnJoY 👋
+### Hi there, thanks for stopping by again on my Git, You will not find so many repos here, \just few of my personal and some Security affair. \Rest I leave upto to take, Seriously few repos are forked not everone is a FAKE !!! EnJoY 👋
 
 
 - 🔭 I’m currently working on A web based crawler to scrap down all the bot traffic.
